@@ -18,6 +18,7 @@ public abstract class Account {
 
 	public void checkBalance() {
 		System.out.println("The current balance is:: " + balance + "\n");
+		System.out.println("Let's try it");
 	}
 
 	public void withdrawl(double Amount) {
